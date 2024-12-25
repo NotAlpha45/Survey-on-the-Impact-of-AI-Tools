@@ -38,11 +38,7 @@ Make sure you have the following installed:
 ### Running the Analysis
 
 1. Ensure you have the survey data file in the `data` directory.
-2. Run the analysis script:
-
-   ```bash
-   python analysis.py
-   ```
+2. Run the analysis scripts in the code directory
 
 ### Output
 
@@ -51,11 +47,3 @@ The results of the analysis will be saved in the `results` directory. You can fi
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contact
-
-For any questions or inquiries, please contact [your email].
